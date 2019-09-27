@@ -1,0 +1,77 @@
+/* Roboto Font Import */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body, html{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+	background: #222F3E;
+	color: white;
+	overflow-x: hidden;
+}
+
+/* Main Font Styles */
+h1{
+	font-size: 55px;
+	font-weight: 900;
+}
+h2{
+	font-size: 40px;
+	font-weight: 900;
+}
+h3{
+	font-size: 30px;
+	font-weight: 900;
+}
+h4{
+	font-size: 25px;
+	font-weight: 900; 
+}
+h5{
+	font-size: 20px;
+	font-weight: 900;
+}
+h6{
+	font-size: 16px;
+	font-weight: 900;
+}
+p{
+	font-size: 16px;
+}
+.font-faded{
+	opacity: .5;
+}
+.theme-link{
+	color: white;
+}
+.theme-link:hover{
+	color: lightgray;
+	text-decoration: none;
+}
+
+/* NavBar Styles */
+.navbar-theme{
+	background: #222F3E;
+}
+.navbar-brand{
+	color:white!important;
+}
+.nav-link{
+	color:white!important;
+}
+.nav-link:hover{
+	color:lightgray!important;
+}
+.active{
+	border-bottom: 1px solid white;
+}
+
+/* Footer Styles */
+.footer{
+	background: #18212B;
+	padding: 100px 0px 100px 0px;
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+}
