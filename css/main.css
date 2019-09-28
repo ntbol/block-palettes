@@ -49,10 +49,18 @@ p{
 	color: lightgray;
 	text-decoration: none;
 }
+.theme-link-dark{
+	color: black;
+}
+.theme-link-dark:hover{
+	color: gray;
+	text-decoration: none;
+}
 
 /* NavBar Styles */
 .navbar-theme{
 	background: #222F3E;
+	padding: 25px 0px 25px 0px;
 }
 .navbar-brand{
 	color:white!important;
@@ -71,7 +79,22 @@ p{
 .footer{
 	background: #18212B;
 	padding: 100px 0px 100px 0px;
-	bottom: 0;
-	position: absolute;
+}
+
+/* Index Styles */
+.float{
+	border-radius: 7px;
+	background: white;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+.float-img{
+	border-radius: 7px;
+}
+.infoblock{
+	background: #18212B;
+	padding: 15px;
 	width: 100%;
+	border-radius: 7px;
+	margin-bottom: 30px;
 }

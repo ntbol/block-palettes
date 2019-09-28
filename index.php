@@ -12,7 +12,194 @@
 <body>
 <?php include('include/header.php'); ?>
 
-
+<div class="row">
+	<div class="container">
+		<!-- Palette Row -->
+		<div class="row">
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+		</div>
+		<!-- Palette Row -->
+		<div class="row">
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+		</div>
+		<!-- Palette Row -->
+		<div class="row">
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+		</div>
+		<!-- Palette Row -->
+		<div class="row">
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="" class="theme-link-dark">
+					<div class="float">
+						<img src="img/test.png" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Castle Palette<span align="right" style="float:right">🏰</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Info Box -->
+<div class="row">
+	<div class="container">
+		<div class="infoblock">
+	        <div class="col-md-12" align="center">
+	             <b>Tweet your love for Block Palettes</b>
+	        </div>
+		</div>
+	</div>
+</div>
+<!-- News Section -->
+<div class="row">
+	<div class="container">
+		<h3>Recent News</h3>
+		<!-- News Article -->
+		<div class="row" style="padding-bottom: 30px;">
+			<div class="col-md-4">
+				<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
+			</div>
+			<div class="col-md-8" style="padding-top: 10px">
+	        	<h4>Contest : Winter Theme</h4>
+	        	<p class="font-faded small">Author: ntbol on September 5, 2019</p>
+	        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor fermentum nisi nec aliquam. Aliquam feugiat elit ligula, at maximus nisl vehicula et. Sed auctor odio nisl, non ultricies magna mollis eget. Donec eleifend sem a sagittis. </p>
+	        	<h6>Read More -></h6>
+			</div>
+		</div>
+		<!-- News Article -->
+		<div class="row" style="padding-bottom: 30px;">
+			<div class="col-md-4">
+				<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
+			</div>
+			<div class="col-md-8" style="padding-top: 10px">
+	        	<h4>Contest : Winter Theme</h4>
+	        	<p class="font-faded small">Author: ntbol on September 5, 2019</p>
+	        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor fermentum nisi nec aliquam. Aliquam feugiat elit ligula, at maximus nisl vehicula et. Sed auctor odio nisl, non ultricies magna mollis eget. Donec eleifend sem a sagittis. </p>
+	        	<h6>Read More -></h6>
+			</div>
+		</div>
+		<!-- News Article -->
+		<div class="row" style="padding-bottom: 30px;">
+			<div class="col-md-4">
+				<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
+			</div>
+			<div class="col-md-8" style="padding-top: 10px">
+	        	<h4>Contest : Winter Theme</h4>
+	        	<p class="font-faded small">Author: ntbol on September 5, 2019</p>
+	        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor fermentum nisi nec aliquam. Aliquam feugiat elit ligula, at maximus nisl vehicula et. Sed auctor odio nisl, non ultricies magna mollis eget. Donec eleifend sem a sagittis. </p>
+	        	<h6>Read More -></h6>
+			</div>
+		</div>
+	</div>
+</div>
 
 <?php include('include/footer.php'); ?>
 <!-- Bootstrap 4 JS -->
