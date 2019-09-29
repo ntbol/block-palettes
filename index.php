@@ -16,31 +16,64 @@
 		<!-- Palette Row -->
 		<div class="row">
 			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
+				<a href="palettes/desert-palace.php" class="theme-link-dark">
 					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
+						<img src="img/palettes/desert-palace.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
+							Desert Palace Palette<span align="right" style="float:right">🌵</span>
 						</h6>
 					</div>
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
+				<a href="palettes/atlantis.php" class="theme-link-dark">
 					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
+						<img src="img/palettes/atlantis.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
+							Atlantis Palette<span align="right" style="float:right">🐟</span>
 						</h6>
 					</div>
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
+				<a href="palettes/abandoned.php" class="theme-link-dark">
 					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
+						<img src="img/palettes/abandoned.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
+							Abandoned Palette<span align="right" style="float:right">🕸️</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+		</div>
+		<!-- Palette Row -->
+		<div class="row">
+			<div class="col-md-4">
+				<a href="palettes/frontier.php" class="theme-link-dark">
+					<div class="float">
+						<img src="img/palettes/frontier.jpg" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Frontier Palette<span align="right" style="float:right">🤠</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="palettes/swamp-hut.php" class="theme-link-dark">
+					<div class="float">
+						<img src="img/palettes/swamp-hut.jpg" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Swamp Hut Palette<span align="right" style="float:right">🐸</span>
+						</h6>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="palettes/modern.php" class="theme-link-dark">
+					<div class="float">
+						<img src="img/palettes/modern.jpg" class="float-img" width="100%;">
+						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
+							Modern Palette<span align="right" style="float:right">🚀</span>
 						</h6>
 					</div>
 				</a>
@@ -51,9 +84,9 @@
 			<div class="col-md-4">
 				<a href="" class="theme-link-dark">
 					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
+						<img src="img/palettes/mountain-mine.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
+							Mountain Mine Palette<span align="right" style="float:right">⛰️</span>
 						</h6>
 					</div>
 				</a>
@@ -61,9 +94,9 @@
 			<div class="col-md-4">
 				<a href="" class="theme-link-dark">
 					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
+						<img src="img/palettes/frozen-outpost.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
+							Frozen Outpost Palette<span align="right" style="float:right">☃️</span>
 						</h6>
 					</div>
 				</a>
@@ -71,42 +104,9 @@
 			<div class="col-md-4">
 				<a href="" class="theme-link-dark">
 					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
+						<img src="img/palettes/jungle-temple.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
-						</h6>
-					</div>
-				</a>
-			</div>
-		</div>
-		<!-- Palette Row -->
-		<div class="row">
-			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
-					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
-						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
-						</h6>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
-					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
-						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
-						</h6>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
-					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
-						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
+							Jungle Temple Palette<span align="right" style="float:right">🐒</span>
 						</h6>
 					</div>
 				</a>
@@ -117,9 +117,9 @@
 			<div class="col-md-4">
 				<a href="" class="theme-link-dark">
 					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
+						<img src="img/palettes/once-upon-a-time.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
+							Once Upon A Time Palette<span align="right" style="float:right">👑</span>
 						</h6>
 					</div>
 				</a>
@@ -127,9 +127,9 @@
 			<div class="col-md-4">
 				<a href="" class="theme-link-dark">
 					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
+						<img src="img/palettes/medieval.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
+							Medieval Palette<span align="right" style="float:right">🏰</span>
 						</h6>
 					</div>
 				</a>
@@ -137,9 +137,9 @@
 			<div class="col-md-4">
 				<a href="" class="theme-link-dark">
 					<div class="float">
-						<img src="img/test.png" class="float-img" width="100%;">
+						<img src="img/palettes/farmland.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
-							Castle Palette<span align="right" style="float:right">🏰</span>
+							Farmland Palette<span align="right" style="float:right">🚜</span>
 						</h6>
 					</div>
 				</a>

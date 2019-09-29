@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Block Palettes - Castle Palette</title>
+	<title>Block Palettes - Modern Palette</title>
 
 	<!-- Bootstrap 4 CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -13,15 +13,15 @@
 <?php include('../include/header.php'); ?>
 
 <div class="container">
-	<h1>Castle Palette</h1>
+	<h1>Modern</h1>
 	<div class="row" style="padding: 30px 0px 30px 0px;">
 		<div class="col-md-4">
 			<div class="row">
 	            <div class="col-md-4">
-	            	<img src="https://via.placeholder.com/95x95" width="100%;">
+	            	<img src="../img/blocks/white-concrete-powder.jpg" width="100%;">
 	            </div>
 	            <div class="col-md-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Stone</h5>
+	            	<h5 class="nospace">White Concrete Powder</h5>
 	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
 	            </div>
         	</div>
@@ -29,10 +29,10 @@
 		<div class="col-md-4">
 			<div class="row">
 	            <div class="col-md-4">
-	            	<img src="https://via.placeholder.com/95x95" width="100%;">
+	            	<img src="../img/blocks/red-concrete.jpg" width="100%;">
 	            </div>
 	            <div class="col-md-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Stone</h5>
+	            	<h5 class="nospace">Red Concrete</h5>
 	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
 	            </div>
         	</div>	
@@ -40,10 +40,10 @@
 		<div class="col-md-4">
 			<div class="row">
 	            <div class="col-md-4">
-	            	<img src="../img/blocks/sandstone.jpg" width="100%">
+	            	<img src="../img/blocks/lime-terracotta.jpg" width="100%">
 	            </div>
 	            <div class="col-md-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Stone</h5>
+	            	<h5 class="nospace">Lime Terracotta</h5>
 	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
 	            </div>
         	</div>	
@@ -53,10 +53,10 @@
 		<div class="col-md-4">
 			<div class="row">
 	            <div class="col-sm-4">
-	            	<img src="https://via.placeholder.com/95x95" width="100%">
+	            	<img src="../img/blocks/white-concrete.jpg" width="100%">
 	            </div>
 	            <div class="col-sm-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Stone</h5>
+	            	<h5 class="nospace">White Concrete</h5>
 	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
 	            </div>
         	</div>
@@ -64,10 +64,10 @@
 		<div class="col-md-4">
 			<div class="row">
 	            <div class="col-md-4">
-	            	<img src="https://via.placeholder.com/95x95" width="100%">
+	            	<img src="../img/blocks/block-of-coal.jpg" width="100%">
 	            </div>
 	            <div class="col-md-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Stone</h5>
+	            	<h5 class="nospace">Block of Coal</h5>
 	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
 	            </div>
         	</div>	
@@ -75,46 +75,21 @@
 		<div class="col-md-4">
 			<div class="row">
 	            <div class="col-md-4">
-	            	<img src="https://via.placeholder.com/95x95" width="100%;">
+	            	<img src="../img/blocks/green-concrete.jpg" width="100%;">
 	            </div>
 	            <div class="col-md-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Stone</h5>
+	            	<h5 class="nospace">Green Concrete</h5>
 	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
 	            </div>
         	</div>	
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-md-12"><h3>Inspiration</h3></div>
-	</div>
-	<div class="row">
-		<div class="col-md-4" style="padding-bottom: 30px">
-			<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
-			<div style="padding-bottom: 10px"></div>
-			<h5 class="nospace">Project Name</h5>
-			<p class="font-faded">Built By <b>Johny</b></p>
-		</div>
-		<div class="col-md-4" style="padding-bottom: 30px">
-			<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
-			<div style="padding-bottom: 10px"></div>
-			<h5 class="nospace">Project Name</h5>
-			<p class="font-faded">Built By <b>Johny</b></p>
-		</div>
-		<div class="col-md-4" style="padding-bottom: 30px">
-			<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
-			<div style="padding-bottom: 10px"></div>
-			<h5 class="nospace">Project Name</h5>
-			<p class="font-faded">Built By <b>Johny</b></p>
-		</div>
-		<div class="col-md-4" style="padding-bottom: 30px">
-			<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
-			<div style="padding-bottom: 10px"></div>
-			<h5 class="nospace">Project Name</h5>
-			<p class="font-faded">Built By <b>Johny</b></p>
-		</div>
-		<div class="col-md-4" style="padding-bottom: 30px">
-			<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
-			<div style="padding-bottom: 10px"></div>
+	<div class="row" style="padding-bottom: 30px;">
+		<div class="col-md-12">
+			<h3>Inspiration</h3>
+			<h5>Want to have your build featured here?</h5>
+			<p>Please take inspiration from the palette above and build something awesome! Once done send us a link and we will showcase it right here 😊.</p>
+			<a href="https://forms.gle/NNKWCvZCuGMdzBXq9" class="btn btn-theme"><b>Send Us Your Build</b></a>
 		</div>
 	</div>
 </div>
