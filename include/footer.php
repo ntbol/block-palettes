@@ -12,6 +12,7 @@
 				<a href="#" class="theme-link">Share on Facebook</a><br>
 				<a href="#" class="theme-link">Share on Google Plus</a><br>
 				<a href="#" class="theme-link">Share on LinkedIn</a><br>
+				<p></p>
 			</div>
 			<div class="col-md-3">
 				<h5>More</h5>

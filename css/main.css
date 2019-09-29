@@ -49,13 +49,35 @@ p{
 	color: lightgray;
 	text-decoration: none;
 }
-.theme-link-dark{
+.theme-link-dark{ 
 	color: black;
 }
 .theme-link-dark:hover{
 	color: gray;
 	text-decoration: none;
 }
+.nospace{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+/* Global Styles */
+.btn-theme{
+	color: black;
+	border-radius: 7px;
+	background: white;
+	padding: 15px 30px 15px 30px;
+	border: 2px white solid;
+}
+.btn-theme:hover{
+	color: white;
+	border-radius: 7px;
+	border: 2px white solid;
+	background: #222F3E;
+}
+
 
 /* NavBar Styles */
 .navbar-theme{
@@ -98,3 +120,4 @@ p{
 	border-radius: 7px;
 	margin-bottom: 30px;
 }
+

@@ -11,13 +11,16 @@
         </ul>
         <ul class="navbar-nav justify-content-end">
             <li class="nav-item" style="padding-right: 25px">
-            <a class="nav-link" href="#"><h6>Palettes</h6></a>
+            <a class="nav-link" href="../index.php"><h6>Palettes</h6></a>
           </li>
           <li class="nav-item" style="padding-right: 25px">
-            <a class="nav-link" href="#"><h6>Submit</h6></a>
+            <a class="nav-link" href="../submit.php"><h6>Submit</h6></a>
+          </li>
+          <li class="nav-item" style="padding-right: 25px">
+            <a class="nav-link" href="../blog.php"><h6>Blog</h6></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#"><h6>Follow</h6></a>
+            <a class="nav-link" href=""><h6>Subscribe</h6></a>
           </li>
       </ul>
       </div>

@@ -12,8 +12,7 @@
 <body>
 <?php include('include/header.php'); ?>
 
-<div class="row">
-	<div class="container">
+<div class="container">
 		<!-- Palette Row -->
 		<div class="row">
 			<div class="col-md-4">
@@ -149,17 +148,14 @@
 	</div>
 </div>
 <!-- Info Box -->
-<div class="row">
-	<div class="container">
-		<div class="infoblock">
-	        <div class="col-md-12" align="center">
-	             <b>Tweet your love for Block Palettes</b>
-	        </div>
-		</div>
+<div class="container">
+	<div class="infoblock">
+	    <div class="col-md-12" align="center">
+	        <b>Tweet your love for Block Palettes</b>
+	    </div>
 	</div>
 </div>
 <!-- News Section -->
-<div class="row">
 	<div class="container">
 		<h3>Recent News</h3>
 		<!-- News Article -->
@@ -199,7 +195,6 @@
 			</div>
 		</div>
 	</div>
-</div>
 
 <?php include('include/footer.php'); ?>
 <!-- Bootstrap 4 JS -->
