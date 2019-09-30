@@ -82,7 +82,7 @@
 		<!-- Palette Row -->
 		<div class="row">
 			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
+				<a href="palettes/mountain-mine.php" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/mountain-mine.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -92,7 +92,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
+				<a href="palettes/frozen-outpost.php" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/frozen-outpost.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -102,7 +102,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
+				<a href="palettes/jungle-temple.php" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/jungle-temple.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -115,7 +115,7 @@
 		<!-- Palette Row -->
 		<div class="row">
 			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
+				<a href="palettes/once-upon-a-time.php" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/once-upon-a-time.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -125,7 +125,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
+				<a href="palettes/medieval.php" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/medieval.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -135,7 +135,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="" class="theme-link-dark">
+				<a href="palettes/farmland.php" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/farmland.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">

@@ -14,72 +14,72 @@
 
 <div class="container">
 	<h1>Atlantis</h1>
-	<div class="row" style="padding: 30px 0px 30px 0px;">
+	<div class="row" style="padding: 30px 0px 0px 0px;">
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/block-of-quartz.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Block of Quartz</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 155<br>(minecraft:quartz_block)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/sea-lantern.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Sea Lantern</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 169<br>(minecraft:sea_lantern)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/nether-bricks.jpg" width="100%">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Nether Bricks</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 112<br>(minecraft:nether_brick)</p>
 	            </div>
         	</div>	
 		</div>
 	</div>
-	<div class="row" style="padding: 0px 0px 30px 0px;">
+	<div class="row" style="margin-bottom: 30px">
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-sm-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/quartz-pillar.jpg" width="100%">
 	            </div>
-	            <div class="col-sm-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Quartz Pillar</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 155:2<br>(minecraft:quartz_block)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/dark-prismarine.jpg" width="100%">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Dark Prismarine</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 168:2<br>(minecraft:prismarine)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/obsidian.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Obsidian</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 49<br>(minecraft:obsidian)</p>
 	            </div>
         	</div>	
 		</div>

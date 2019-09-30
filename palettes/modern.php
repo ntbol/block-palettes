@@ -14,72 +14,72 @@
 
 <div class="container">
 	<h1>Modern</h1>
-	<div class="row" style="padding: 30px 0px 30px 0px;">
+	<div class="row" style="padding: 30px 0px 0px 0px;">
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/white-concrete-powder.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">White Concrete Powder</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 252<br>(minecraft:concrete_powder)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/red-concrete.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Red Concrete</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 251:14<br>(minecraft:concrete)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/lime-terracotta.jpg" width="100%">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Lime Terracotta</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 159:5<br>(minecraft:stained_hardened_clay)</p>
 	            </div>
         	</div>	
 		</div>
 	</div>
-	<div class="row" style="padding: 0px 0px 30px 0px;">
+	<div class="row" style="margin-bottom: 30px;">
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-sm-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-sm-4">
 	            	<img src="../img/blocks/white-concrete.jpg" width="100%">
 	            </div>
-	            <div class="col-sm-8" style="padding-top: 10px">
+	            <div class="col-8 col-sm-8" style="padding-top: 10px">
 	            	<h5 class="nospace">White Concrete</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 251<br>(minecraft:concrete)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/block-of-coal.jpg" width="100%">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Block of Coal</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 173<br>(minecraft:coal_block)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/green-concrete.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Green Concrete</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 251:13<br>(minecraft:concrete)</p>
 	            </div>
         	</div>	
 		</div>

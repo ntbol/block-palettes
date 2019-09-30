@@ -14,72 +14,72 @@
 
 <div class="container">
 	<h1>Abandoned</h1>
-	<div class="row" style="padding: 30px 0px 30px 0px;">
+	<div class="row" style="padding: 30px 0px 0px 0px;">
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/stripped-jungle-wood.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Stripped Jungle Wood</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">(minecraft:stripped_jungle_wood)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/soul-sand.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Soul Sand</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 88<br>(minecraft:soul_sand)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/bricks.jpg" width="100%">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Bricks</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 45<br>(minecraft:brick_block)</p>
 	            </div>
         	</div>	
 		</div>
 	</div>
-	<div class="row" style="padding: 0px 0px 30px 0px;">
+	<div class="row" style="margin-bottom: 30px;">
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-sm-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-sm-4">
 	            	<img src="../img/blocks/stripped-spruce-wood.jpg" width="100%">
 	            </div>
-	            <div class="col-sm-8" style="padding-top: 10px">
+	            <div class="col-8 col-sm-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Stripped Spruce Wood</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">(minecraft:stripped_spruce_wood)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/spruce-wood.jpg" width="100%">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Spruce Wood</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 17:1<br>(minecraft:log)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/nether-bricks.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Nether Bricks</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 112<br>(minecraft:nether_brick)</p>
 	            </div>
         	</div>	
 		</div>

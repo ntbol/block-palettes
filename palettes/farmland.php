@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Block Palettes - Desert Palace Palette</title>
+	<title>Block Palettes - Farmland</title>
 
 	<!-- Bootstrap 4 CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -13,73 +13,73 @@
 <?php include('../include/header.php'); ?>
 
 <div class="container">
-	<h1>Desert Palace</h1>
+	<h1>Farmland</h1>
 	<div class="row" style="padding: 30px 0px 0px 0px;">
 		<div class="col-md-4">
 			<div class="row" style="padding-top: 10px">
 	            <div class="col-4 col-md-4">
-	            	<img src="../img/blocks/sandstone.jpg" width="100%;">
+	            	<img src="../img/blocks/white-wool.jpg" width="100%;">
 	            </div>
 	            <div class="col-8 col-md-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Sandstone</h5>
-	            	<p class="font-faded">ID : 24<br>(minecraft:sandstone)</p>
+	            	<h5 class="nospace">White Wool</h5>
+	            	<p class="font-faded">ID : 35<br>(minecraft:wool)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
 			<div class="row" style="padding-top: 10px">
 	            <div class="col-4 col-md-4">
-	            	<img src="../img/blocks/stripped-birch-wood.jpg" width="100%;">
+	            	<img src="../img/blocks/hay-bale.jpg" width="100%;">
 	            </div>
 	            <div class="col-8 col-md-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Stripped Birch Wood</h5>
-	            	<p class="font-faded">(minecraft:stripped_birch_wood)</p>
+	            	<h5 class="nospace">Hay Bale</h5>
+	            	<p class="font-faded">ID : 170<br>(minecraft:hay_block)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
 			<div class="row" style="padding-top: 10px">
 	            <div class="col-4 col-md-4">
-	            	<img src="../img/blocks/light-blue-terracotta.jpg" width="100%">
+	            	<img src="../img/blocks/red-concrete-powder.jpg" width="100%">
 	            </div>
 	            <div class="col-8 col-md-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Light Blue Terracotta</h5>
-	            	<p class="font-faded">ID : 159:3<br>(minecraft:stained_hardened_clay)</p>
+	            	<h5 class="nospace">Red Concrete Powder</h5>
+	            	<p class="font-faded">ID : 252:14<br>(minecraft:concrete_powder)</p>
 	            </div>
         	</div>	
 		</div>
 	</div>
-	<div class="row" style="margin-bottom:30px">
+	<div class="row" style="margin-bottom: 30px;">
 		<div class="col-md-4">
 			<div class="row" style="padding-top: 10px">
-	            <div class="col-4 col-sm-4">
-	            	<img src="../img/blocks/smooth-red-sandstone.jpg" width="100%">
+	            <div class="col-4 col-md-4">
+	            	<img src="../img/blocks/white-concrete.jpg" width="100%">
 	            </div>
-	            <div class="col-8 col-sm-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Smooth Red Sandstone</h5>
-	            	<p class="font-faded">ID : 179:2<br>(minecraft:red_sandstone)</p>
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
+	            	<h5 class="nospace">White Concrete</h5>
+	            	<p class="font-faded">ID : 251<br>(minecraft:concrete)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
 			<div class="row" style="padding-top: 10px">
 	            <div class="col-4 col-md-4">
-	            	<img src="../img/blocks/stripped-dark-oak-wood.jpg" width="100%">
+	            	<img src="../img/blocks/dark-oak-wood.jpg" width="100%">
 	            </div>
-	            <div class="col-8 col-md-8" style="padding-top: px">
-	            	<h5 class="nospace">Stripped Dark Oak Wood</h5>
-	            	<p class="font-faded">(minecraft:stripped_dark_oak_wood)</p>
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
+	            	<h5 class="nospace">Dark Oak Wood</h5>
+	            	<p class="font-faded">ID : 162:1<br>(minecraft:log2)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
 			<div class="row" style="padding-top: 10px">
 	            <div class="col-4 col-md-4">
-	            	<img src="../img/blocks/blue-terracotta.jpg" width="100%;">
+	            	<img src="../img/blocks/red-concrete.jpg" width="100%;">
 	            </div>
 	            <div class="col-8 col-md-8" style="padding-top: 10px">
-	            	<h5 class="nospace">Blue Terracotta</h5>
-	            	<p class="font-faded">ID : 159:11<br>(minecraft:stained_hardened_clay)</p>
+	            	<h5 class="nospace">Red Concrete</h5>
+	            	<p class="font-faded">ID : 251:14<br>(minecraft:concrete)</p>
 	            </div>
         	</div>	
 		</div>

@@ -14,72 +14,72 @@
 
 <div class="container">
 	<h1>Swamp Hut</h1>
-	<div class="row" style="padding: 30px 0px 30px 0px;">
+	<div class="row" style="padding: 30px 0px 0px 0px;">
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/spruce-planks.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" >
+	            <div class="col-8 col-md-8" >
 	            	<h5 class="nospace">Spruce Planks</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 5:1<br>(minecraft:planks)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/birch-leaves.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Birch Leaves</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 18:2<br>(minecraft:leaves)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/stripped-oak-wood.jpg" width="100%">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Stripped Oak Wood</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">(minecraft:stripped_oak_wood)</p>
 	            </div>
         	</div>	
 		</div>
 	</div>
-	<div class="row" style="padding: 0px 0px 30px 0px;">
+	<div class="row" style="margin-bottom: 30px;">
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-sm-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-sm-4">
 	            	<img src="../img/blocks/dark-oak-wood.jpg" width="100%">
 	            </div>
-	            <div class="col-sm-8" style="padding-top: 10px">
+	            <div class="col-8 col-sm-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Dark Oak Wood</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 162:1<br>(minecraft:log2)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/mossy-cobblestone.jpg" width="100%">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Mossy Cobblestone</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 48<br>(minecraft:mossy_cobblestone)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/soul-sand.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Soul Sand</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 88<br>(minecraft:soul_sand)</p>
 	            </div>
         	</div>	
 		</div>

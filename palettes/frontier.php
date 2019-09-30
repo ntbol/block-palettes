@@ -14,72 +14,72 @@
 
 <div class="container">
 	<h1>Frontier</h1>
-	<div class="row" style="padding: 30px 0px 30px 0px;">
+	<div class="row" style="padding: 30px 0px 0px 0px;">
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/stripped-dark-oak-wood.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" >
+	            <div class="col-8 col-md-8" >
 	            	<h5 class="nospace">Stripped Dark Oak Wood</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">(minecraft:stripped_dark_oak_wood)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/netherrack.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Netherrack</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 87<br>(minecraft:netherrack)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px"> 
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/smooth-red-sandstone.jpg" width="100%">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Smooth Red Sandstone</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 179:2<br>(minecraft:red_sandstone)</p>
 	            </div>
         	</div>	
 		</div>
 	</div>
-	<div class="row" style="padding: 0px 0px 30px 0px;">
+	<div class="row" style="margin-bottom: 30px">
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-sm-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-sm-4">
 	            	<img src="../img/blocks/dark-oak-wood.jpg" width="100%">
 	            </div>
-	            <div class="col-sm-8" style="padding-top: 10px">
+	            <div class="col-8 col-sm-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Dark Oak Wood</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 162:1<br>(minecraft:log2)</p>
 	            </div>
         	</div>
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/block-of-coal.jpg" width="100%">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Block of Coal</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 173<br>(minecraft:coal_block)</p>
 	            </div>
         	</div>	
 		</div>
 		<div class="col-md-4">
-			<div class="row">
-	            <div class="col-md-4">
+			<div class="row" style="padding-top: 10px">
+	            <div class="col-4 col-md-4">
 	            	<img src="../img/blocks/orange-terracotta.jpg" width="100%;">
 	            </div>
-	            <div class="col-md-8" style="padding-top: 10px">
+	            <div class="col-8 col-md-8" style="padding-top: 10px">
 	            	<h5 class="nospace">Orange Terracotta</h5>
-	            	<p class="font-faded">ID : 1<br>(minecraft:stone)</p>
+	            	<p class="font-faded">ID : 159:1<br>(minecraft:stained_hardened_clay)</p>
 	            </div>
         	</div>	
 		</div>
