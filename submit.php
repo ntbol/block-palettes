@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="UTF-8">
+  	<meta name="description" content="Have an idea for a palette? Submit it to us and we might just add it to our website!">
+  	<meta name="keywords" content="Minecraft, Building, Blocks, Colors, Creative">
 	<title>Block Palettes - Submit</title>
 
 	<!-- Bootstrap 4 CSS -->

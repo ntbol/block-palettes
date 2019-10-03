@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="UTF-8">
+  	<meta name="description" content="We help Minecraft players find eye pleasing palettes to build with as well as create a place to connect with monthly building contest and showcases of the amazing things people build!">
+  	<meta name="keywords" content="Minecraft, Building, Blocks, Colors, Creative">
 	<title>Block Palettes - Minecraft Building Inspiration Through Blocks</title>
 
 	<!-- Bootstrap 4 CSS -->
