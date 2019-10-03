@@ -103,7 +103,15 @@ p{
 .footer{
 	background: #18212B;
 	padding: 100px 0px 100px 0px;
+	bottom: 0;
+	position: absolute;
+	width: 100%;
 }
+.footerhome{
+	background: #18212B;
+	padding: 100px 0px 100px 0px;
+}
+
 
 /* Index Styles */
 .float{
@@ -122,4 +130,3 @@ p{
 	border-radius: 7px;
 	margin-bottom: 30px;
 }
-

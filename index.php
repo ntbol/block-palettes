@@ -11,7 +11,7 @@
 </head>
 <body>
 <?php include('include/header.php'); ?>
-
+<div class="test">
 <div class="container">
 		<!-- Palette Row -->
 		<div class="row">
@@ -151,52 +151,33 @@
 <div class="container">
 	<div class="infoblock">
 	    <div class="col-md-12" align="center">
-	        <b>Tweet your love for Block Palettes</b>
+	        <a href="https://twitter.com/intent/tweet?text=Check%20out%20these%20awesome%20%40minecraft%20block%20palettes!%20%40blockpalettes%20%0Awww.blockpalettes.com" class="theme-link"><b>Tweet your love for Block Palettes</b></a>
 	    </div>
 	</div>
 </div>
-<!-- News Section -->
+<div class="footerhome">
 	<div class="container">
-		<h3>Recent News</h3>
-		<!-- News Article -->
-		<div class="row" style="padding-bottom: 30px;">
-			<div class="col-md-4">
-				<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
+		<div class="row">
+			<div class="col-md-6">
+				<h5>About</h5>
+				<p>We help Minecraft players find eye pleasing palettes to build with as well as create a place to connect with monthly building contest and showcases of the amazing things people build!</p>
 			</div>
-			<div class="col-md-8" style="padding-top: 10px">
-	        	<h4>Contest : Winter Theme</h4>
-	        	<p class="font-faded small">Author: ntbol on September 5, 2019</p>
-	        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor fermentum nisi nec aliquam. Aliquam feugiat elit ligula, at maximus nisl vehicula et. Sed auctor odio nisl, non ultricies magna mollis eget. Donec eleifend sem a sagittis. </p>
-	        	<h6>Read More -></h6>
+			<div class="col-md-3">
+				<h5>Share</h5>
+				<a href="https://twitter.com/intent/tweet?text=Check%20out%20these%20awesome%20%40minecraft%20block%20palettes!%20%40blockpalettes%20%0Awww.blockpalettes.com" class="theme-link">Share on Twitter</a><br>
+				<a href="https://www.facebook.com/sharer/sharer.php?u=www.blockpalettes.com" class="theme-link">Share on Facebook</a><br>
+				<p></p>
 			</div>
-		</div>
-		<!-- News Article -->
-		<div class="row" style="padding-bottom: 30px;">
-			<div class="col-md-4">
-				<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
-			</div>
-			<div class="col-md-8" style="padding-top: 10px">
-	        	<h4>Contest : Winter Theme</h4>
-	        	<p class="font-faded small">Author: ntbol on September 5, 2019</p>
-	        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor fermentum nisi nec aliquam. Aliquam feugiat elit ligula, at maximus nisl vehicula et. Sed auctor odio nisl, non ultricies magna mollis eget. Donec eleifend sem a sagittis. </p>
-	        	<h6>Read More -></h6>
-			</div>
-		</div>
-		<!-- News Article -->
-		<div class="row" style="padding-bottom: 30px;">
-			<div class="col-md-4">
-				<img src="https://via.placeholder.com/423x253" class="float-img" width="100%;">
-			</div>
-			<div class="col-md-8" style="padding-top: 10px">
-	        	<h4>Contest : Winter Theme</h4>
-	        	<p class="font-faded small">Author: ntbol on September 5, 2019</p>
-	        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor fermentum nisi nec aliquam. Aliquam feugiat elit ligula, at maximus nisl vehicula et. Sed auctor odio nisl, non ultricies magna mollis eget. Donec eleifend sem a sagittis. </p>
-	        	<h6>Read More -></h6>
+			<div class="col-md-3">
+				<h5>More</h5>
+				<a href="http://www.nateboland.com/" class="theme-link">Contact Me</a><br>
+				<a href="https://twitter.com/blockpalettes" class="theme-link">Follow Us</a><br>
+				<a href="http://localhost/block-palettes/submit.php" class="theme-link">Submit</a><br>
+				<a href="https://github.com/ntbol/block-palettes" class="theme-link">GitHub</a><br>
 			</div>
 		</div>
 	</div>
-
-<?php include('include/footer.php'); ?>
+</div>
 <!-- Bootstrap 4 JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>

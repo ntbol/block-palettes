@@ -3,23 +3,20 @@
 		<div class="row">
 			<div class="col-md-6">
 				<h5>About</h5>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec arcu posuere, suscipit lorem eu, dictum sapien. Nullam at felis eu elit dictum ornare. Ut ex est, pellentesque a rutrum vitae, viverra eget lectus.</p>
+				<p>We help Minecraft players find eye pleasing palettes to build with as well as create a place to connect with monthly building contest and showcases of the amazing things people build!</p>
 			</div>
 			<div class="col-md-3">
 				<h5>Share</h5>
-				<a href="#" class="theme-link">Send via e-mail</a><br>
-				<a href="#" class="theme-link">Share on Twitter</a><br>
-				<a href="#" class="theme-link">Share on Facebook</a><br>
-				<a href="#" class="theme-link">Share on Google Plus</a><br>
-				<a href="#" class="theme-link">Share on LinkedIn</a><br>
+				<a href="https://twitter.com/intent/tweet?text=Check%20out%20these%20awesome%20%40minecraft%20block%20palettes!%20%40blockpalettes%20%0Awww.blockpalettes.com" class="theme-link">Share on Twitter</a><br>
+				<a href="https://www.facebook.com/sharer/sharer.php?u=www.blockpalettes.com" class="theme-link">Share on Facebook</a><br>
 				<p></p>
 			</div>
 			<div class="col-md-3">
 				<h5>More</h5>
-				<a href="#" class="theme-link">Contact Me</a><br>
-				<a href="#" class="theme-link">Subscribe</a><br>
-				<a href="#" class="theme-link">Submit</a><br>
-				<a href="#" class="theme-link">GitHub</a><br>
+				<a href="http://www.nateboland.com/" class="theme-link">Contact Me</a><br>
+				<a href="https://twitter.com/blockpalettes" class="theme-link">Follow Us</a><br>
+				<a href="http://localhost/block-palettes/submit.php" class="theme-link">Submit</a><br>
+				<a href="https://github.com/ntbol/block-palettes" class="theme-link">GitHub</a><br>
 			</div>
 		</div>
 	</div>
