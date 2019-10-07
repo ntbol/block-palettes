@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<?php include('../include/gstracking.php'); ?>
 	<title>Block Palettes - Abandoned Palette</title>
 
 	<!-- Bootstrap 4 CSS -->

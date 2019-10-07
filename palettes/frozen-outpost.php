@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<?php include('../include/gstracking.php'); ?>
 	<title>Block Palettes - Frozen Outpost</title>
 
 	<!-- Bootstrap 4 CSS -->

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<?php include('include/gstracking.php'); ?>
 	<meta charset="UTF-8">
   	<meta name="description" content="Have an idea for a palette? Submit it to us and we might just add it to our website!">
   	<meta name="keywords" content="Minecraft, Building, Blocks, Colors, Creative">
@@ -17,7 +18,7 @@
 
 <div class="container">
 	<h1>Submit Your Palette</h1>
-	<div class="row" style="padding: 30px 0px 150px 0px;">
+	<div class="row" style="padding: 30px 0px 250px 0px;">
 		<div class="col-md-12">
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec arcu posuere, suscipit lorem eu, dictum sapien. Nullam at felis eu elit dictum ornare.</p> 
 			<p>Ut ex est, pellentesque a rutrum vitae, viverra eget lectus. Sed sodales, sapien ut convallis malesuada, purus nulla interdum quam, sit amet faucibus risus nisi ut velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>

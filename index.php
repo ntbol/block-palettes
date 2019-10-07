@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-81969207-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-81969207-1');
+	</script>
+
 	<meta charset="UTF-8">
   	<meta name="description" content="We help Minecraft players find eye pleasing palettes to build with as well as create a place to connect with monthly building contest and showcases of the amazing things people build!">
   	<meta name="keywords" content="Minecraft, Building, Blocks, Colors, Creative">
@@ -19,7 +29,7 @@
 		<!-- Palette Row -->
 		<div class="row">
 			<div class="col-md-4">
-				<a href="palettes/desert-palace.php" class="theme-link-dark">
+				<a href="palettes/desert-palace" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/desert-palace.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -29,7 +39,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="palettes/atlantis.php" class="theme-link-dark">
+				<a href="palettes/atlantis" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/atlantis.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -39,7 +49,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="palettes/abandoned.php" class="theme-link-dark">
+				<a href="palettes/abandoned" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/abandoned.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -52,7 +62,7 @@
 		<!-- Palette Row -->
 		<div class="row">
 			<div class="col-md-4">
-				<a href="palettes/frontier.php" class="theme-link-dark">
+				<a href="palettes/frontier" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/frontier.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -62,7 +72,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="palettes/swamp-hut.php" class="theme-link-dark">
+				<a href="palettes/swamp-hut" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/swamp-hut.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -72,7 +82,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="palettes/modern.php" class="theme-link-dark">
+				<a href="palettes/modern" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/modern.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -85,7 +95,7 @@
 		<!-- Palette Row -->
 		<div class="row">
 			<div class="col-md-4">
-				<a href="palettes/mountain-mine.php" class="theme-link-dark">
+				<a href="palettes/mountain-mine" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/mountain-mine.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -95,7 +105,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="palettes/frozen-outpost.php" class="theme-link-dark">
+				<a href="palettes/frozen-outpost" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/frozen-outpost.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -105,7 +115,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="palettes/jungle-temple.php" class="theme-link-dark">
+				<a href="palettes/jungle-temple" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/jungle-temple.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -118,7 +128,7 @@
 		<!-- Palette Row -->
 		<div class="row">
 			<div class="col-md-4">
-				<a href="palettes/once-upon-a-time.php" class="theme-link-dark">
+				<a href="palettes/once-upon-a-time" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/once-upon-a-time.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -128,7 +138,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="palettes/medieval.php" class="theme-link-dark">
+				<a href="palettes/medieval" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/medieval.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">
@@ -138,7 +148,7 @@
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="palettes/farmland.php" class="theme-link-dark">
+				<a href="palettes/farmland" class="theme-link-dark">
 					<div class="float">
 						<img src="img/palettes/farmland.jpg" class="float-img" width="100%;">
 						<h6 style="color:black;margin-bottom: 0px; padding-top: 10px">

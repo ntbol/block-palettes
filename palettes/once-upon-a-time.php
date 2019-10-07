@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<?php include('../include/gstracking.php'); ?>
 	<title>Block Palettes - Once Upon a Time</title>
 
 	<!-- Bootstrap 4 CSS -->
