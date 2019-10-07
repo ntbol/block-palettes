@@ -12,10 +12,10 @@
         </ul>
         <ul class="navbar-nav justify-content-end">
             <li class="nav-item" style="padding-right: 25px">
-            <a class="nav-link" href="http://localhost/block-palettes/index.php"><h6>Palettes</h6></a>
+            <a class="nav-link" href="blockpalettes.com/index.php"><h6>Palettes</h6></a>
           </li>
           <li class="nav-item" style="padding-right: 25px">
-            <a class="nav-link" href="http://localhost/block-palettes/submit.php"><h6>Submit</h6></a>
+            <a class="nav-link" href="blockpalettes.com/submit.php"><h6>Submit</h6></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://twitter.com/blockpalettes"><h6>Follow Us</h6></a>
