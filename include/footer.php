@@ -13,9 +13,9 @@
 			</div>
 			<div class="col-md-3">
 				<h5>More</h5>
-				<a href="http://www.nateboland.com/" class="theme-link">Contact Me</a><br>
+				<a href="https://www.nateboland.com/" class="theme-link">Contact Me</a><br>
 				<a href="https://twitter.com/blockpalettes" class="theme-link">Follow Us</a><br>
-				<a href="http://localhost/block-palettes/submit.php" class="theme-link">Submit</a><br>
+				<a href="https://www.blockpalettes.com/submit" class="theme-link">Submit</a><br>
 				<a href="https://github.com/ntbol/block-palettes" class="theme-link">GitHub</a><br>
 			</div>
 		</div>
