@@ -128,3 +128,37 @@ p{
 	border-radius: 7px;
 	margin-bottom: 30px;
 }
+.tagText{
+	margin-left: 25px;
+}
+@media only screen and (max-width:900px){
+	.tagText{
+		margin: 0px!important;
+	}
+}
+.newTag{
+	position: absolute!important;
+	background: red;
+	padding: 2px 5px 2px 5px;
+	border-radius: 3px;
+	font-size: 10px;
+	margin-left:5px;
+	margin-top:3px;
+	animation: blinker 2s linear infinite;
+}
+
+@keyframes blinker {
+	50% {
+	  opacity: 0.2;
+	}
+  }
+
+.username{
+	font-weight: 100;
+}
+
+.pixelFix{
+	image-rendering: auto;
+  	image-rendering: crisp-edges;
+  	image-rendering: pixelated;
+}

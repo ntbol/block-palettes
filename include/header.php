@@ -1,4 +1,4 @@
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <div class="container">
  <nav class="navbar navbar-expand-lg navbar-dark navbar-theme">
       <a class="navbar-brand" href="https://www.blockpalettes.com/"><h4>Block Palettes</h4></a>
@@ -11,10 +11,13 @@
 
         </ul>
         <ul class="navbar-nav justify-content-end">
-            <li class="nav-item" style="padding-right: 25px">
+          <li class="nav-item" style="padding-right: 25px">
             <a class="nav-link" href="https://www.blockpalettes.com/"><h6>Palettes</h6></a>
           </li>
           <li class="nav-item" style="padding-right: 25px">
+            <a class="nav-link" href="https://www.blockpalettes.com/community-palettes"><h6>Community Palettes <span class="newTag">New</span></h6></a>
+          </li>
+          <li class="nav-item tagText" style="padding-right: 25px">
             <a class="nav-link" href="https://www.blockpalettes.com/submit"><h6>Submit</h6></a>
           </li>
           <li class="nav-item">
